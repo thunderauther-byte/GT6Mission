@@ -1,0 +1,5 @@
+# Locations are filled in with /mission set <start|dealer|hideout|escape>
+rewards:
+  - "give %player% diamond 16"
+  - "give %player% emerald 32"
+guards: 4
