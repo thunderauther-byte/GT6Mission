@@ -1,0 +1,11 @@
+name: GT6Mission
+version: 1.0
+main: com.gt6.mission.GT6Mission
+api-version: "26.1.1"
+commands:
+  mission:
+    description: GT6 mission control
+    usage: /mission <start|stop|set>
+permissions:
+  gt6.admin:
+    default: op
